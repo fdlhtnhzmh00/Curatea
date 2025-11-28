@@ -1,1 +1,1 @@
-# curatea-linkinbio
+# curatea
